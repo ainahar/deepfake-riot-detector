@@ -28,3 +28,9 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python detect.py data/sample_clips/reference.wav data/sample_clips/suspect.wav
+
+## License
+MIT — prototype only.
+
+---
+Note: This repository contains prototype/demo code for research and policy discussion. It is not intended for production use.
